@@ -1,5 +1,9 @@
 package tech.loyd.offer.ch3;
 
+/*
+ * 输入数字n，按顺序打印出从1到最大的n位十进制数，比如输入3，则打印出1、2、3一直到走愈大的3位数即999。
+ */
+
 public class Question12 {
 
     public static void printOneToNthDigits(int n) {  
