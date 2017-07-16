@@ -26,13 +26,13 @@ public class Question23 {
 	}
 
 	public static void main(String[] args) {
-		// 1
-		// / \
-		// 2 5
-		// / \ / \
-		// 3 4 6 8
-		// /
-		// 7
+		// 		1
+		//     / \
+		//    2   5
+		//   / \ / \
+		//  3  4 6  8
+		//      /
+		//     7
 		TreeNode tn8 = new TreeNode(8);
 		TreeNode tn7 = new TreeNode(7);
 		TreeNode tn6 = new TreeNode(6, tn7, null);
