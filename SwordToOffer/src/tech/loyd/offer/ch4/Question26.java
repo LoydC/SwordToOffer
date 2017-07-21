@@ -38,7 +38,7 @@ public class Question26 {
 
 		newHead = head;
 		ComplexListNode returnHead = newHead.next;
-
+		// 第三步
 		while (newHead!=null && newHead.next != null) {
 			ComplexListNode nextNode= newHead.next.next;
 			if(nextNode != null){
