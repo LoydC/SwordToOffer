@@ -1,4 +1,4 @@
-package tech.loyd.offer.ch5;
+package tech.loyd.offer.ch6;
 
 public class Question38 {
 
